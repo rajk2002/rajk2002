@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and an AI en
 - Advanced database management and optimization techniques
 
 ### 📫 How to reach me
-- LinkedIn: [@rajkhatri3002](https://www.linkedin.com/in/workwithrajkhatri/)
+- LinkedIn: [@workwithrajkhatri](https://www.linkedin.com/in/workwithrajkhatri/)
 - GitHub: [github.com/rajkhatri3002](https://github.com/rajkhatri3002)
-- Email: [your.email@example.com](mailto:rajkhatri3002@gmail.com)
+- Email: [rajkhatri3002@gmail.com](mailto:rajkhatri3002@gmail.com)
 
 ---
 
